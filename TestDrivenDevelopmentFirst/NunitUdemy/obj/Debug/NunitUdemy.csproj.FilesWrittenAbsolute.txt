@@ -1,0 +1,6 @@
+/home/wacken/SavedData/Programming/C#/Katas/TestDrivenDevelopmentFirst/NunitUdemy/obj/Debug/.NETFramework,Version=v4.7.1.AssemblyAttribute.cs
+/home/wacken/SavedData/Programming/C#/Katas/TestDrivenDevelopmentFirst/NunitUdemy/bin/Debug/NunitUdemy.pdb
+/home/wacken/SavedData/Programming/C#/Katas/TestDrivenDevelopmentFirst/NunitUdemy/bin/Debug/NunitUdemy.dll
+/home/wacken/SavedData/Programming/C#/Katas/TestDrivenDevelopmentFirst/NunitUdemy/obj/Debug/NunitUdemy.dll
+/home/wacken/SavedData/Programming/C#/Katas/TestDrivenDevelopmentFirst/NunitUdemy/obj/Debug/NunitUdemy.pdb
+/home/wacken/SavedData/Programming/C#/Katas/TestDrivenDevelopmentFirst/NunitUdemy/bin/Debug/nunit.framework.dll
