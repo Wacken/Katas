@@ -32,25 +32,60 @@
     </treeState>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe37c8d5-9a4c-4189-8a45-3d9398eff59d" name="Default Changelist" comment="" />
+    <list default="true" id="fe37c8d5-9a4c-4189-8a45-3d9398eff59d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Katas/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Katas/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Katas/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Katas/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FizzBuzz/CardGame/BasePlayer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FizzBuzz/CardGame/Card.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FizzBuzz/CardGame/CardGame.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FizzBuzz/CardGame/IntegrationTest/ManaSystem_Integration.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FizzBuzz/CardGame/ManaPoolBase.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FizzBuzz/CardGame/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FizzBuzz/CardGame/RandomNumberGenerator.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FizzBuzz/CardGame/UnitTest/AttackCard_UnitTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FizzBuzz/CardGame/UnitTest/Game_UnitTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FizzBuzz/CardGame/UnitTest/ManaSystem_UnitTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FizzBuzz/CardGame/UnitTest/Player_UnitTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FizzBuzz/CardGame/bin/Debug/CardGame.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FizzBuzz/CardGame/bin/Debug/CardGame.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FizzBuzz/CardGame/bin/Debug/Castle.Core.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FizzBuzz/CardGame/bin/Debug/NSubstitute.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FizzBuzz/CardGame/bin/Debug/System.Threading.Tasks.Extensions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FizzBuzz/CardGame/bin/Debug/nunit.framework.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FizzBuzz/CardGame/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttribute.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FizzBuzz/CardGame/obj/Debug/CardGame.csproj.FilesWrittenAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FizzBuzz/CardGame/obj/Debug/CardGame.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FizzBuzz/CardGame/obj/Debug/CardGame.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FizzBuzz/CardGame/packages.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestDrivenDevelopmentFirst/.idea/.idea.TestDrivenDevelopmentFirst/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TestDrivenDevelopmentFirst/.idea/.idea.TestDrivenDevelopmentFirst/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestDrivenDevelopmentFirst/.idea/.idea.TestDrivenDevelopmentFirst/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TestDrivenDevelopmentFirst/.idea/.idea.TestDrivenDevelopmentFirst/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestDrivenDevelopmentFirst/.idea/.idea.TestDrivenDevelopmentFirst/riderModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../TestDrivenDevelopmentFirst/.idea/.idea.TestDrivenDevelopmentFirst/riderModule.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestDrivenDevelopmentFirst/NunitUdemy/bin/Debug/NunitUdemy.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../TestDrivenDevelopmentFirst/NunitUdemy/bin/Debug/NunitUdemy.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestDrivenDevelopmentFirst/NunitUdemy/bin/Debug/NunitUdemy.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../TestDrivenDevelopmentFirst/NunitUdemy/bin/Debug/NunitUdemy.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestDrivenDevelopmentFirst/NunitUdemy/obj/Debug/NunitUdemy.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../TestDrivenDevelopmentFirst/NunitUdemy/obj/Debug/NunitUdemy.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestDrivenDevelopmentFirst/NunitUdemy/obj/Debug/NunitUdemy.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../TestDrivenDevelopmentFirst/NunitUdemy/obj/Debug/NunitUdemy.pdb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/CardGame/Card.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CardGame/BasePlayer.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CardGame/UnitTest/AttackCard_UnitTest.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CardGame/UnitTest/Player_UnitTest.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CardGame/UnitTest/Game_UnitTest.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CardGame/ManaPoolBase.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CardGame/UnitTest/ManaSystem_UnitTest.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D2EC5C92-492F-4D6B-A8C4-22BDF574B786/35/2aa42cf3/RandomNumberGenerator.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D2EC5C92-492F-4D6B-A8C4-22BDF574B786/07/42f2d946/Random.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CardGame/IntegrationTest/ManaSystem_Integration.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CardGame/RandomNumberGenerator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CardGame/ManaPoolBase.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/FizzBuzz/Tests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CardGame/Card.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D2EC5C92-492F-4D6B-A8C4-22BDF574B786/35/2aa42cf3/RandomNumberGenerator.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D2EC5C92-492F-4D6B-A8C4-22BDF574B786/07/42f2d946/Random.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CardGame/UnitTest/ManaSystem_UnitTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CardGame/UnitTest/Player_UnitTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CardGame/UnitTest/Game_UnitTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CardGame/UnitTest/AttackCard_UnitTest.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -72,6 +107,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1V0vWPlP1eHTshL3X5Zfmn2Mltg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -79,6 +115,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TWShift.4" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C#" />
   </component>
   <component name="ServiceViewManager">
