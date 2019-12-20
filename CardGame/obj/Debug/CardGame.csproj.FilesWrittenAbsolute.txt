@@ -1,0 +1,15 @@
+/home/wacken/SavedData/Programming/Rider/Katas/CardGame/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttribute.cs
+/home/wacken/SavedData/Programming/Rider/Katas/CardGame/bin/Debug/nunit.framework.dll
+/home/wacken/SavedData/Programming/Rider/Katas/CardGame/bin/Debug/CardGame.pdb
+/home/wacken/SavedData/Programming/Rider/Katas/CardGame/bin/Debug/CardGame.dll
+/home/wacken/SavedData/Programming/Rider/Katas/CardGame/obj/Debug/CardGame.dll
+/home/wacken/SavedData/Programming/Rider/Katas/CardGame/obj/Debug/CardGame.pdb
+/home/wacken/SavedData/Programming/C#/Katas/CardGame/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttribute.cs
+/home/wacken/SavedData/Programming/C#/Katas/CardGame/bin/Debug/CardGame.pdb
+/home/wacken/SavedData/Programming/C#/Katas/CardGame/bin/Debug/CardGame.dll
+/home/wacken/SavedData/Programming/C#/Katas/CardGame/obj/Debug/CardGame.dll
+/home/wacken/SavedData/Programming/C#/Katas/CardGame/obj/Debug/CardGame.pdb
+/home/wacken/SavedData/Programming/C#/Katas/CardGame/bin/Debug/nunit.framework.dll
+/home/wacken/SavedData/Programming/C#/Katas/CardGame/bin/Debug/Castle.Core.dll
+/home/wacken/SavedData/Programming/C#/Katas/CardGame/bin/Debug/NSubstitute.dll
+/home/wacken/SavedData/Programming/C#/Katas/CardGame/bin/Debug/System.Threading.Tasks.Extensions.dll

@@ -1,0 +1,12 @@
+/home/wacken/SavedData/Programming/Rider/Katas/FizzBuzz/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttribute.cs
+/home/wacken/SavedData/Programming/Rider/Katas/FizzBuzz/bin/Debug/FizzBuzz.pdb
+/home/wacken/SavedData/Programming/Rider/Katas/FizzBuzz/bin/Debug/FizzBuzz.dll
+/home/wacken/SavedData/Programming/Rider/Katas/FizzBuzz/obj/Debug/FizzBuzz.dll
+/home/wacken/SavedData/Programming/Rider/Katas/FizzBuzz/obj/Debug/FizzBuzz.pdb
+/home/wacken/SavedData/Programming/Rider/Katas/FizzBuzz/bin/Debug/nunit.framework.dll
+/home/wacken/SavedData/Programming/C#/Katas/FizzBuzz/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttribute.cs
+/home/wacken/SavedData/Programming/C#/Katas/FizzBuzz/bin/Debug/FizzBuzz.pdb
+/home/wacken/SavedData/Programming/C#/Katas/FizzBuzz/bin/Debug/FizzBuzz.dll
+/home/wacken/SavedData/Programming/C#/Katas/FizzBuzz/obj/Debug/FizzBuzz.dll
+/home/wacken/SavedData/Programming/C#/Katas/FizzBuzz/obj/Debug/FizzBuzz.pdb
+/home/wacken/SavedData/Programming/C#/Katas/FizzBuzz/bin/Debug/nunit.framework.dll
