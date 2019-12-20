@@ -33,37 +33,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fe37c8d5-9a4c-4189-8a45-3d9398eff59d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Katas/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Katas/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Katas/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Katas/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FizzBuzz/CardGame/BasePlayer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FizzBuzz/CardGame/Card.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FizzBuzz/CardGame/CardGame.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FizzBuzz/CardGame/IntegrationTest/ManaSystem_Integration.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FizzBuzz/CardGame/ManaPoolBase.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FizzBuzz/CardGame/Properties/AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FizzBuzz/CardGame/RandomNumberGenerator.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FizzBuzz/CardGame/UnitTest/AttackCard_UnitTest.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FizzBuzz/CardGame/UnitTest/Game_UnitTest.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FizzBuzz/CardGame/UnitTest/ManaSystem_UnitTest.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FizzBuzz/CardGame/UnitTest/Player_UnitTest.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FizzBuzz/CardGame/bin/Debug/CardGame.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FizzBuzz/CardGame/bin/Debug/CardGame.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FizzBuzz/CardGame/bin/Debug/Castle.Core.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FizzBuzz/CardGame/bin/Debug/NSubstitute.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FizzBuzz/CardGame/bin/Debug/System.Threading.Tasks.Extensions.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FizzBuzz/CardGame/bin/Debug/nunit.framework.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FizzBuzz/CardGame/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttribute.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FizzBuzz/CardGame/obj/Debug/CardGame.csproj.FilesWrittenAbsolute.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FizzBuzz/CardGame/obj/Debug/CardGame.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FizzBuzz/CardGame/obj/Debug/CardGame.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FizzBuzz/CardGame/packages.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestDrivenDevelopmentFirst/.idea/.idea.TestDrivenDevelopmentFirst/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TestDrivenDevelopmentFirst/.idea/.idea.TestDrivenDevelopmentFirst/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestDrivenDevelopmentFirst/.idea/.idea.TestDrivenDevelopmentFirst/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TestDrivenDevelopmentFirst/.idea/.idea.TestDrivenDevelopmentFirst/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestDrivenDevelopmentFirst/.idea/.idea.TestDrivenDevelopmentFirst/riderModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../TestDrivenDevelopmentFirst/.idea/.idea.TestDrivenDevelopmentFirst/riderModule.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestDrivenDevelopmentFirst/NunitUdemy/bin/Debug/NunitUdemy.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../TestDrivenDevelopmentFirst/NunitUdemy/bin/Debug/NunitUdemy.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestDrivenDevelopmentFirst/NunitUdemy/bin/Debug/NunitUdemy.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../TestDrivenDevelopmentFirst/NunitUdemy/bin/Debug/NunitUdemy.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestDrivenDevelopmentFirst/NunitUdemy/obj/Debug/NunitUdemy.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../TestDrivenDevelopmentFirst/NunitUdemy/obj/Debug/NunitUdemy.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestDrivenDevelopmentFirst/NunitUdemy/obj/Debug/NunitUdemy.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../TestDrivenDevelopmentFirst/NunitUdemy/obj/Debug/NunitUdemy.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CardGame/BasePlayer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CardGame/BasePlayer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CardGame/UnitTest/Player_UnitTest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CardGame/UnitTest/Player_UnitTest.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,8 +73,8 @@
         <option value="$PROJECT_DIR$/CardGame/UnitTest/AttackCard_UnitTest.cs" />
         <option value="$PROJECT_DIR$/CardGame/Card.cs" />
         <option value="$PROJECT_DIR$/CardGame/RandomNumberGenerator.cs" />
-        <option value="$PROJECT_DIR$/CardGame/BasePlayer.cs" />
         <option value="$PROJECT_DIR$/CardGame/UnitTest/Player_UnitTest.cs" />
+        <option value="$PROJECT_DIR$/CardGame/BasePlayer.cs" />
       </list>
     </option>
   </component>

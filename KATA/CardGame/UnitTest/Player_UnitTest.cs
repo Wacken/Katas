@@ -1,5 +1,6 @@
 using NSubstitute;
 using NSubstitute.Core.Arguments;
+using NSubstitute.ReceivedExtensions;
 using NUnit.Framework;
 
 namespace CardGame.UnitTest
@@ -228,6 +229,22 @@ namespace CardGame.UnitTest
                 
                 mockPool.Received().use(1);
             }
+
+            [Test]
+            [Ignore("To Difficult")]
+            public void GivenCard0EnemyHealthFull_EnemyHealthFull()
+            {
+                BasePlayer player = createPlayer();
+                Player mockEnemy = Substitute.For<Player>();
+                Game stubGame = Substitute.For<Game>();
+                stubGame.getOpponent().Returns(mockEnemy);
+                var stubCard = createAttackCard(0);
+                player.hand.Add(stubCard);
+                
+                player.playCard(stubCard);
+
+                mockEnemy.Received().LifePool+= 0;
+            }
         }
         protected static BasePlayer createPlayer()
         {
@@ -268,5 +285,10 @@ namespace CardGame.UnitTest
         {
             return new BasePlayer(generator,null);
         }
+    }
+
+    public interface Game
+    {
+        Player getOpponent();
     }
 }

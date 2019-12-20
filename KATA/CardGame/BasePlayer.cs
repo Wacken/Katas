@@ -4,7 +4,15 @@ using CardGame.UnitTest;
 
 namespace CardGame
 {
-    public class BasePlayer
+    public interface Player
+    {
+        void draw();
+        void refresh();
+        void playCard(Card card);
+        int LifePool { get; set; }
+    }
+
+    public class BasePlayer : Player
     {
         #region Random
 
@@ -50,5 +58,7 @@ namespace CardGame
             hand.Remove(card);
             manaPool.use(card.ManaCost);
         }
+
+        public int LifePool { get; set; }
     }
 }
