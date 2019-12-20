@@ -1,0 +1,54 @@
+C:\Users\Wacken\Documents\Visual Studio 2017\Projects\TestDrivenDevelopmentFirst\XUnitTest\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Wacken\Documents\Visual Studio 2017\Projects\TestDrivenDevelopmentFirst\XUnitTest\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Wacken\Documents\Visual Studio 2017\Projects\TestDrivenDevelopmentFirst\XUnitTest\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Wacken\Documents\Visual Studio 2017\Projects\TestDrivenDevelopmentFirst\XUnitTest\bin\Debug\netcoreapp2.1\XUnitTest.deps.json
+C:\Users\Wacken\Documents\Visual Studio 2017\Projects\TestDrivenDevelopmentFirst\XUnitTest\bin\Debug\netcoreapp2.1\XUnitTest.runtimeconfig.json
+C:\Users\Wacken\Documents\Visual Studio 2017\Projects\TestDrivenDevelopmentFirst\XUnitTest\bin\Debug\netcoreapp2.1\XUnitTest.runtimeconfig.dev.json
+C:\Users\Wacken\Documents\Visual Studio 2017\Projects\TestDrivenDevelopmentFirst\XUnitTest\bin\Debug\netcoreapp2.1\XUnitTest.dll
+C:\Users\Wacken\Documents\Visual Studio 2017\Projects\TestDrivenDevelopmentFirst\XUnitTest\bin\Debug\netcoreapp2.1\XUnitTest.pdb
+C:\Users\Wacken\Documents\Visual Studio 2017\Projects\TestDrivenDevelopmentFirst\XUnitTest\bin\Debug\netcoreapp2.1\Doing.exe
+C:\Users\Wacken\Documents\Visual Studio 2017\Projects\TestDrivenDevelopmentFirst\XUnitTest\bin\Debug\netcoreapp2.1\Doing.pdb
+C:\Users\Wacken\Documents\Visual Studio 2017\Projects\TestDrivenDevelopmentFirst\XUnitTest\bin\Debug\netcoreapp2.1\Doing.exe.config
+C:\Users\Wacken\Documents\Visual Studio 2017\Projects\TestDrivenDevelopmentFirst\XUnitTest\obj\Debug\netcoreapp2.1\XUnitTest.csprojAssemblyReference.cache
+C:\Users\Wacken\Documents\Visual Studio 2017\Projects\TestDrivenDevelopmentFirst\XUnitTest\obj\Debug\netcoreapp2.1\XUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Wacken\Documents\Visual Studio 2017\Projects\TestDrivenDevelopmentFirst\XUnitTest\obj\Debug\netcoreapp2.1\XUnitTest.AssemblyInfoInputs.cache
+C:\Users\Wacken\Documents\Visual Studio 2017\Projects\TestDrivenDevelopmentFirst\XUnitTest\obj\Debug\netcoreapp2.1\XUnitTest.AssemblyInfo.cs
+C:\Users\Wacken\Documents\Visual Studio 2017\Projects\TestDrivenDevelopmentFirst\XUnitTest\obj\Debug\netcoreapp2.1\XUnitTest.csproj.CopyComplete
+C:\Users\Wacken\Documents\Visual Studio 2017\Projects\TestDrivenDevelopmentFirst\XUnitTest\obj\Debug\netcoreapp2.1\XUnitTest.dll
+C:\Users\Wacken\Documents\Visual Studio 2017\Projects\TestDrivenDevelopmentFirst\XUnitTest\obj\Debug\netcoreapp2.1\XUnitTest.pdb
+C:\Users\Wacken\OneDrive\Studium\programming\Algemein\TestDrivenDevelopmentFirst\XUnitTest\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Wacken\OneDrive\Studium\programming\Algemein\TestDrivenDevelopmentFirst\XUnitTest\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Wacken\OneDrive\Studium\programming\Algemein\TestDrivenDevelopmentFirst\XUnitTest\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Wacken\OneDrive\Studium\programming\Algemein\TestDrivenDevelopmentFirst\XUnitTest\bin\Debug\netcoreapp2.1\XUnitTest.deps.json
+C:\Users\Wacken\OneDrive\Studium\programming\Algemein\TestDrivenDevelopmentFirst\XUnitTest\bin\Debug\netcoreapp2.1\XUnitTest.runtimeconfig.json
+C:\Users\Wacken\OneDrive\Studium\programming\Algemein\TestDrivenDevelopmentFirst\XUnitTest\bin\Debug\netcoreapp2.1\XUnitTest.runtimeconfig.dev.json
+C:\Users\Wacken\OneDrive\Studium\programming\Algemein\TestDrivenDevelopmentFirst\XUnitTest\bin\Debug\netcoreapp2.1\XUnitTest.dll
+C:\Users\Wacken\OneDrive\Studium\programming\Algemein\TestDrivenDevelopmentFirst\XUnitTest\bin\Debug\netcoreapp2.1\XUnitTest.pdb
+C:\Users\Wacken\OneDrive\Studium\programming\Algemein\TestDrivenDevelopmentFirst\XUnitTest\bin\Debug\netcoreapp2.1\Doing.exe
+C:\Users\Wacken\OneDrive\Studium\programming\Algemein\TestDrivenDevelopmentFirst\XUnitTest\bin\Debug\netcoreapp2.1\Doing.pdb
+C:\Users\Wacken\OneDrive\Studium\programming\Algemein\TestDrivenDevelopmentFirst\XUnitTest\bin\Debug\netcoreapp2.1\Doing.exe.config
+C:\Users\Wacken\OneDrive\Studium\programming\Algemein\TestDrivenDevelopmentFirst\XUnitTest\obj\Debug\netcoreapp2.1\XUnitTest.csprojAssemblyReference.cache
+C:\Users\Wacken\OneDrive\Studium\programming\Algemein\TestDrivenDevelopmentFirst\XUnitTest\obj\Debug\netcoreapp2.1\XUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Wacken\OneDrive\Studium\programming\Algemein\TestDrivenDevelopmentFirst\XUnitTest\obj\Debug\netcoreapp2.1\XUnitTest.AssemblyInfoInputs.cache
+C:\Users\Wacken\OneDrive\Studium\programming\Algemein\TestDrivenDevelopmentFirst\XUnitTest\obj\Debug\netcoreapp2.1\XUnitTest.AssemblyInfo.cs
+C:\Users\Wacken\OneDrive\Studium\programming\Algemein\TestDrivenDevelopmentFirst\XUnitTest\obj\Debug\netcoreapp2.1\XUnitTest.csproj.CopyComplete
+C:\Users\Wacken\OneDrive\Studium\programming\Algemein\TestDrivenDevelopmentFirst\XUnitTest\obj\Debug\netcoreapp2.1\XUnitTest.dll
+C:\Users\Wacken\OneDrive\Studium\programming\Algemein\TestDrivenDevelopmentFirst\XUnitTest\obj\Debug\netcoreapp2.1\XUnitTest.pdb
+D:\OneDrive\Studium\programming\Algemein\TestDrivenDevelopmentFirst\XUnitTest\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\OneDrive\Studium\programming\Algemein\TestDrivenDevelopmentFirst\XUnitTest\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+D:\OneDrive\Studium\programming\Algemein\TestDrivenDevelopmentFirst\XUnitTest\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+D:\OneDrive\Studium\programming\Algemein\TestDrivenDevelopmentFirst\XUnitTest\bin\Debug\netcoreapp2.1\XUnitTest.deps.json
+D:\OneDrive\Studium\programming\Algemein\TestDrivenDevelopmentFirst\XUnitTest\bin\Debug\netcoreapp2.1\XUnitTest.runtimeconfig.json
+D:\OneDrive\Studium\programming\Algemein\TestDrivenDevelopmentFirst\XUnitTest\bin\Debug\netcoreapp2.1\XUnitTest.runtimeconfig.dev.json
+D:\OneDrive\Studium\programming\Algemein\TestDrivenDevelopmentFirst\XUnitTest\bin\Debug\netcoreapp2.1\XUnitTest.dll
+D:\OneDrive\Studium\programming\Algemein\TestDrivenDevelopmentFirst\XUnitTest\bin\Debug\netcoreapp2.1\XUnitTest.pdb
+D:\OneDrive\Studium\programming\Algemein\TestDrivenDevelopmentFirst\XUnitTest\bin\Debug\netcoreapp2.1\Doing.exe
+D:\OneDrive\Studium\programming\Algemein\TestDrivenDevelopmentFirst\XUnitTest\bin\Debug\netcoreapp2.1\Doing.pdb
+D:\OneDrive\Studium\programming\Algemein\TestDrivenDevelopmentFirst\XUnitTest\bin\Debug\netcoreapp2.1\Doing.exe.config
+D:\OneDrive\Studium\programming\Algemein\TestDrivenDevelopmentFirst\XUnitTest\obj\Debug\netcoreapp2.1\XUnitTest.csprojAssemblyReference.cache
+D:\OneDrive\Studium\programming\Algemein\TestDrivenDevelopmentFirst\XUnitTest\obj\Debug\netcoreapp2.1\XUnitTest.csproj.CoreCompileInputs.cache
+D:\OneDrive\Studium\programming\Algemein\TestDrivenDevelopmentFirst\XUnitTest\obj\Debug\netcoreapp2.1\XUnitTest.AssemblyInfoInputs.cache
+D:\OneDrive\Studium\programming\Algemein\TestDrivenDevelopmentFirst\XUnitTest\obj\Debug\netcoreapp2.1\XUnitTest.AssemblyInfo.cs
+D:\OneDrive\Studium\programming\Algemein\TestDrivenDevelopmentFirst\XUnitTest\obj\Debug\netcoreapp2.1\XUnitTest.csproj.CopyComplete
+D:\OneDrive\Studium\programming\Algemein\TestDrivenDevelopmentFirst\XUnitTest\obj\Debug\netcoreapp2.1\XUnitTest.dll
+D:\OneDrive\Studium\programming\Algemein\TestDrivenDevelopmentFirst\XUnitTest\obj\Debug\netcoreapp2.1\XUnitTest.pdb

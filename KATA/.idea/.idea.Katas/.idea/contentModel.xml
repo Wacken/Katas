@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.Rider2019.3/system/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.Rider2019.3/system/resharper-host/local/Transient/ReSharperHost/v193/SolutionCaches/_Katas.-1604538819.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="CardGame" t="IncludeRecursive">
+        <e p="BasePlayer.cs" t="Include" />
+        <e p="Card.cs" t="Include" />
+        <e p="CardGame.csproj" t="IncludeRecursive" />
+        <e p="IntegrationTest" t="Include">
+          <e p="ManaSystem_Integration.cs" t="Include" />
+        </e>
+        <e p="ManaPoolBase.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="RandomNumberGenerator.cs" t="Include" />
+        <e p="UnitTest" t="Include">
+          <e p="AttackCard_UnitTest.cs" t="Include" />
+          <e p="Game_UnitTest.cs" t="Include" />
+          <e p="ManaSystem_UnitTest.cs" t="Include" />
+          <e p="Player_UnitTest.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+      </e>
+      <e p="FizzBuzz" t="IncludeRecursive">
+        <e p="FizzBuzz.csproj" t="IncludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Tests.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+      </e>
+      <e p="Katas.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

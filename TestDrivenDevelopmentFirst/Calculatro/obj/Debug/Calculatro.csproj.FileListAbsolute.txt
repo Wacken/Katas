@@ -1,0 +1,12 @@
+C:\Users\Wacken\Documents\Visual Studio 2017\Projects\TestDrivenDevelopmentFirst\Calculatro\bin\Debug\Calculatro.dll
+C:\Users\Wacken\Documents\Visual Studio 2017\Projects\TestDrivenDevelopmentFirst\Calculatro\bin\Debug\Calculatro.pdb
+C:\Users\Wacken\Documents\Visual Studio 2017\Projects\TestDrivenDevelopmentFirst\Calculatro\obj\Debug\Calculatro.csprojAssemblyReference.cache
+C:\Users\Wacken\Documents\Visual Studio 2017\Projects\TestDrivenDevelopmentFirst\Calculatro\obj\Debug\Calculatro.csproj.CoreCompileInputs.cache
+C:\Users\Wacken\Documents\Visual Studio 2017\Projects\TestDrivenDevelopmentFirst\Calculatro\obj\Debug\Calculatro.dll
+C:\Users\Wacken\Documents\Visual Studio 2017\Projects\TestDrivenDevelopmentFirst\Calculatro\obj\Debug\Calculatro.pdb
+D:\OneDrive\Studium\programming\Algemein\TestDrivenDevelopmentFirst\Calculatro\bin\Debug\Calculatro.dll
+D:\OneDrive\Studium\programming\Algemein\TestDrivenDevelopmentFirst\Calculatro\bin\Debug\Calculatro.pdb
+D:\OneDrive\Studium\programming\Algemein\TestDrivenDevelopmentFirst\Calculatro\obj\Debug\Calculatro.csprojAssemblyReference.cache
+D:\OneDrive\Studium\programming\Algemein\TestDrivenDevelopmentFirst\Calculatro\obj\Debug\Calculatro.csproj.CoreCompileInputs.cache
+D:\OneDrive\Studium\programming\Algemein\TestDrivenDevelopmentFirst\Calculatro\obj\Debug\Calculatro.dll
+D:\OneDrive\Studium\programming\Algemein\TestDrivenDevelopmentFirst\Calculatro\obj\Debug\Calculatro.pdb

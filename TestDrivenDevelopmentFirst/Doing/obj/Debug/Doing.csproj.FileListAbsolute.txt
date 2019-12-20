@@ -1,0 +1,14 @@
+C:\Users\Wacken\Documents\Visual Studio 2017\Projects\TestDrivenDevelopmentFirst\Doing\bin\Debug\Doing.exe.config
+C:\Users\Wacken\Documents\Visual Studio 2017\Projects\TestDrivenDevelopmentFirst\Doing\bin\Debug\Doing.exe
+C:\Users\Wacken\Documents\Visual Studio 2017\Projects\TestDrivenDevelopmentFirst\Doing\bin\Debug\Doing.pdb
+C:\Users\Wacken\Documents\Visual Studio 2017\Projects\TestDrivenDevelopmentFirst\Doing\obj\Debug\Doing.csprojAssemblyReference.cache
+C:\Users\Wacken\Documents\Visual Studio 2017\Projects\TestDrivenDevelopmentFirst\Doing\obj\Debug\Doing.csproj.CoreCompileInputs.cache
+C:\Users\Wacken\Documents\Visual Studio 2017\Projects\TestDrivenDevelopmentFirst\Doing\obj\Debug\Doing.exe
+C:\Users\Wacken\Documents\Visual Studio 2017\Projects\TestDrivenDevelopmentFirst\Doing\obj\Debug\Doing.pdb
+C:\Users\Wacken\OneDrive\Studium\programming\Algemein\TestDrivenDevelopmentFirst\Doing\bin\Debug\Doing.exe.config
+C:\Users\Wacken\OneDrive\Studium\programming\Algemein\TestDrivenDevelopmentFirst\Doing\bin\Debug\Doing.exe
+C:\Users\Wacken\OneDrive\Studium\programming\Algemein\TestDrivenDevelopmentFirst\Doing\bin\Debug\Doing.pdb
+C:\Users\Wacken\OneDrive\Studium\programming\Algemein\TestDrivenDevelopmentFirst\Doing\obj\Debug\Doing.csprojAssemblyReference.cache
+C:\Users\Wacken\OneDrive\Studium\programming\Algemein\TestDrivenDevelopmentFirst\Doing\obj\Debug\Doing.csproj.CoreCompileInputs.cache
+C:\Users\Wacken\OneDrive\Studium\programming\Algemein\TestDrivenDevelopmentFirst\Doing\obj\Debug\Doing.exe
+C:\Users\Wacken\OneDrive\Studium\programming\Algemein\TestDrivenDevelopmentFirst\Doing\obj\Debug\Doing.pdb

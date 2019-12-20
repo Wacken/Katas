@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Wacken\.nuget\packages\xunit.runner.visualstudio\2.4.0\build\netcoreapp1.0\xunit.runner.reporters.netcoreapp10.dll" t="Include" />
+    <e p="C:\Users\Wacken\.nuget\packages\xunit.runner.visualstudio\2.4.0\build\netcoreapp1.0\xunit.runner.utility.netcoreapp10.dll" t="Include" />
+    <e p="C:\Users\Wacken\.nuget\packages\xunit.runner.visualstudio\2.4.0\build\netcoreapp1.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll" t="Include" />
+    <e p="C:\Users\Wacken\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Wacken\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_TestDrivenDevelopmentFirst.1139213048.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Wacken\OneDrive\Studium\programming\TestDrivenDevelopmentFirst" t="IncludeFlat">
+      <e p="Calculatro" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Calculatro.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="SalaryCalculator.cs" t="Include" />
+      </e>
+      <e p="Decorator" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="AttackTypes.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Decorator.csproj" t="IncludeRecursive" />
+        <e p="EarthAttacker.cs" t="Include" />
+        <e p="FireAttacker.cs" t="Include" />
+        <e p="IEnemy.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Slime.cs" t="Include" />
+        <e p="Wolf.cs" t="Include" />
+      </e>
+      <e p="Doing" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="Bank.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Doing.csproj" t="IncludeRecursive" />
+        <e p="Expression.cs" t="Include" />
+        <e p="Money.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Sum.cs" t="Include" />
+      </e>
+      <e p="Factory" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Factory.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="NunitUdemy" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="FibonacciTest.cs" t="Include" />
+        <e p="FizzBuzzTests.cs" t="Include" />
+        <e p="NunitUdemy.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="RomanNumeralsTest.cs" t="Include" />
+      </e>
+      <e p="Observer" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="Bag.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="chipsBag.cs" t="Include" />
+        <e p="IObserver.cs" t="Include" />
+        <e p="ISubject.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Observer.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="TestDrivenDevelopmentFirst.sln" t="IncludeFlat" />
+      <e p="XUnitTest" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="XUnitTest.AssemblyInfo.cs" t="Include" />
+              <e p="XUnitTest.Program.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="UnitTest1.cs" t="Include" />
+        <e p="XUnitTest.csproj" t="IncludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
