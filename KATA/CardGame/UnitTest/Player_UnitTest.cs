@@ -168,7 +168,7 @@ namespace CardGame.UnitTest
             [Test]
             public void Given1Card_HandIsEmpty()
             {
-                BasePlayer player = createPlayer();
+                BasePlayer player = createPlayerWithEnemy();
                 var card = createAttackCard();
                 player.hand.Add(card);
 
@@ -180,7 +180,7 @@ namespace CardGame.UnitTest
             [Test]
             public void Given2Card_Hand1Card()
             {
-                BasePlayer player = createPlayer();
+                BasePlayer player = createPlayerWithEnemy();
                 var stubCard = createAttackCard();
                 player.hand.Add(stubCard);
                 player.hand.Add(createAttackCard());
@@ -194,7 +194,7 @@ namespace CardGame.UnitTest
             public void Given2Card_HandNotContainPlayed()
             {
                 ManaPool stubPool = Substitute.For<ManaPool>();
-                BasePlayer player = createPlayer(stubPool);
+                BasePlayer player = createPlayerWithEnemy(stubPool);
                 player.hand.Add(createAttackCard());
                 var stubCard = createAttackCard(1);
                 player.hand.Add(stubCard);
@@ -208,7 +208,7 @@ namespace CardGame.UnitTest
             public void Given1Card0_Use0ManaWasCalled()
             {
                 ManaPool mockPool = Substitute.For<ManaPool>();
-                BasePlayer player = createPlayer(mockPool);
+                BasePlayer player = createPlayerWithEnemy(mockPool);
                 var stubCard = createAttackCard(0);
                 player.hand.Add(stubCard);
                 
@@ -221,7 +221,7 @@ namespace CardGame.UnitTest
             public void Given1Card1_Use1ManaWasCalled()
             {
                 ManaPool mockPool = Substitute.For<ManaPool>();
-                BasePlayer player = createPlayer(mockPool);
+                BasePlayer player = createPlayerWithEnemy(mockPool);
                 var stubCard = createAttackCard(1);
                 player.hand.Add(stubCard);
                 
@@ -231,24 +231,64 @@ namespace CardGame.UnitTest
             }
 
             [Test]
-            [Ignore("To Difficult")]
-            public void GivenCard0EnemyHealthFull_EnemyHealthFull()
+            public void GivenCard0_EnemyReceived0Damage()
             {
-                BasePlayer player = createPlayer();
                 Player mockEnemy = Substitute.For<Player>();
                 Game stubGame = Substitute.For<Game>();
                 stubGame.getOpponent().Returns(mockEnemy);
+                BasePlayer player = createPlayer(stubGame);
                 var stubCard = createAttackCard(0);
                 player.hand.Add(stubCard);
                 
                 player.playCard(stubCard);
 
-                mockEnemy.Received().LifePool+= 0;
+                mockEnemy.Received().takeDamage(0);
+            }
+
+            [Test]
+            public void GivenCard1_EnemyReceived1Damage()
+            {
+                Player mockEnemy = Substitute.For<Player>();
+                Game stubGame = Substitute.For<Game>();
+                stubGame.getOpponent().Returns(mockEnemy);
+                ManaPool pool = Substitute.For<ManaPool>();
+                pool.use(Arg.Any<int>());
+                BasePlayer player = createPlayer(pool,stubGame);
+                var stubCard = createAttackCard(1);
+                player.hand.Add(stubCard);
+                
+                player.playCard(stubCard);
+
+                mockEnemy.Received().takeDamage(1);
             }
         }
+
+        public class TakeDamage : Player_UnitTest
+        {
+            [Test]
+            public void GivenFullLife0Damage_ReturnFullLife()
+            {
+                Player player = createPlayer();
+                
+                player.takeDamage(0);
+                
+                Assert.AreEqual(30,player.getLife());
+            }
+
+            [Test]
+            public void GivenFullLife1Damage_Return29Life()
+            {
+                Player player = createPlayer();
+                
+                player.takeDamage(1);
+                
+                Assert.AreEqual(29,player.getLife());
+            }
+        }
+        
         protected static BasePlayer createPlayer()
         {
-            return new BasePlayer(null,null);
+            return new BasePlayer(null,null,null);
         }
 
         protected static void createFakeDeckIncreasing(BasePlayer player, int deckSize)
@@ -273,22 +313,35 @@ namespace CardGame.UnitTest
 
         private BasePlayer createPlayer(ManaPool pool)
         {
-            return new BasePlayer(null,pool);
-        }
-
-        protected BasePlayer createPlayer(RandomGenerator generator, ManaPool pool)
-        {
-            return new BasePlayer(generator,pool);
+            return new BasePlayer(null,pool,null);
         }
 
         private BasePlayer createPlayer(RandomGenerator generator)
         {
-            return new BasePlayer(generator,null);
+            return new BasePlayer(generator,null,null);
         }
-    }
 
-    public interface Game
-    {
-        Player getOpponent();
+        protected BasePlayer createPlayer(Game game)
+        {
+            return new BasePlayer(null,null,game);
+        }
+
+        protected BasePlayer createPlayer(ManaPool pool, Game game)
+        {
+            return new BasePlayer(null,pool,game);
+        }
+
+        protected BasePlayer createPlayerWithEnemy()
+        {
+            return createPlayerWithEnemy(null);
+        }
+
+        protected BasePlayer createPlayerWithEnemy(ManaPool pool)
+        {
+            Game stubGame = Substitute.For<Game>();
+            Player stubEnemy = Substitute.For<Player>();
+            stubGame.getOpponent().Returns(stubEnemy);   
+            return new BasePlayer(null,pool,stubGame);
+        }
     }
 }

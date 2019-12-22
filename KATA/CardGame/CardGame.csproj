@@ -58,11 +58,11 @@
   <ItemGroup>
     <Compile Include="BasePlayer.cs" />
     <Compile Include="Card.cs" />
+    <Compile Include="Game.cs" />
     <Compile Include="IntegrationTest\ManaSystem_Integration.cs" />
     <Compile Include="ManaPoolBase.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RandomNumberGenerator.cs" />
-    <Compile Include="UnitTest\AttackCard_UnitTest.cs" />
     <Compile Include="UnitTest\Game_UnitTest.cs" />
     <Compile Include="UnitTest\ManaSystem_UnitTest.cs" />
     <Compile Include="UnitTest\Player_UnitTest.cs" />

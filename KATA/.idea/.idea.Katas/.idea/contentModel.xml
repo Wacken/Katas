@@ -8,6 +8,7 @@
         <e p="BasePlayer.cs" t="Include" />
         <e p="Card.cs" t="Include" />
         <e p="CardGame.csproj" t="IncludeRecursive" />
+        <e p="Game.cs" t="Include" />
         <e p="IntegrationTest" t="Include">
           <e p="ManaSystem_Integration.cs" t="Include" />
         </e>
@@ -17,7 +18,6 @@
         </e>
         <e p="RandomNumberGenerator.cs" t="Include" />
         <e p="UnitTest" t="Include">
-          <e p="AttackCard_UnitTest.cs" t="Include" />
           <e p="Game_UnitTest.cs" t="Include" />
           <e p="ManaSystem_UnitTest.cs" t="Include" />
           <e p="Player_UnitTest.cs" t="Include" />

@@ -9,15 +9,19 @@ namespace CardGame
         void draw();
         void refresh();
         void playCard(Card card);
-        int LifePool { get; set; }
+        void takeDamage(int amount);
+        int getLife();
     }
 
     public class BasePlayer : Player
     {
+        private readonly ManaPool manaPool;
+        private readonly Game game;
+        
         #region Random
 
         private readonly RandomGenerator randomGenerator;
-        private readonly ManaPool manaPool;
+        
         
         private class DefaultRandom : RandomGenerator
         {
@@ -29,14 +33,16 @@ namespace CardGame
 
         #endregion
 
-        internal BasePlayer(RandomGenerator generator ,ManaPool pool)
+        internal BasePlayer(RandomGenerator generator = null ,ManaPool pool = null, Game theGame = null)
         {
             randomGenerator = generator ?? new DefaultRandom();
             manaPool = pool ?? new ManaPoolBase();
+            game = theGame ?? new StandardGame();
         }
 
         public List<Card> hand = new List<Card>();
         public List<Card> deck = new List<Card>();
+        private int lifeCount = 30;
 
         public void draw()
         {
@@ -57,8 +63,17 @@ namespace CardGame
         {
             hand.Remove(card);
             manaPool.use(card.ManaCost);
+            game.getOpponent().takeDamage(card.ManaCost);
         }
 
-        public int LifePool { get; set; }
+        public void takeDamage(int amount)
+        {
+            lifeCount-=amount;
+        }
+
+        public int getLife()
+        {
+            return lifeCount;
+        }
     }
 }
