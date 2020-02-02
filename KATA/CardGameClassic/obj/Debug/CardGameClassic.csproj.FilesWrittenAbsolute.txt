@@ -1,0 +1,6 @@
+/home/wacken/SavedData/Programming/C#/Katas/KATA/CardGameClassic/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttribute.cs
+/home/wacken/SavedData/Programming/C#/Katas/KATA/CardGameClassic/bin/Debug/CardGameClassic.pdb
+/home/wacken/SavedData/Programming/C#/Katas/KATA/CardGameClassic/bin/Debug/CardGameClassic.dll
+/home/wacken/SavedData/Programming/C#/Katas/KATA/CardGameClassic/obj/Debug/CardGameClassic.dll
+/home/wacken/SavedData/Programming/C#/Katas/KATA/CardGameClassic/obj/Debug/CardGameClassic.pdb
+/home/wacken/SavedData/Programming/C#/Katas/KATA/CardGameClassic/bin/Debug/nunit.framework.dll

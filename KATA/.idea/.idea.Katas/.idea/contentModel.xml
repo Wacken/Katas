@@ -26,6 +26,24 @@
         <e p="obj" t="ExcludeRecursive" />
         <e p="packages.config" t="Include" />
       </e>
+      <e p="CardGameClassic" t="IncludeRecursive">
+        <e p="CardGameClassic.csproj" t="IncludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Tests.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+      </e>
+      <e p="ConsoleApplication1" t="IncludeRecursive">
+        <e p="ConsoleApplication1.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+      </e>
       <e p="FizzBuzz" t="IncludeRecursive">
         <e p="FizzBuzz.csproj" t="IncludeRecursive" />
         <e p="Properties" t="Include">
@@ -37,6 +55,32 @@
         <e p="packages.config" t="Include" />
       </e>
       <e p="Katas.sln" t="IncludeFlat" />
+      <e p="Meiern" t="IncludeRecursive">
+        <e p="Dice.cs" t="Include" />
+        <e p="Dices.cs" t="Include" />
+        <e p="Game.cs" t="Include" />
+        <e p="GameTest.cs" t="Include" />
+        <e p="Meiern.csproj" t="IncludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+      </e>
+      <e p="Tennis" t="IncludeRecursive">
+        <e p="ITennisGame.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Tennis.csproj" t="IncludeRecursive" />
+        <e p="TennisGame1.cs" t="Include" />
+        <e p="TennisGame2.cs" t="Include" />
+        <e p="TennisGame3.cs" t="Include" />
+        <e p="Tennis_UnitTest.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+      </e>
       <e p="packages" t="ExcludeRecursive" />
     </e>
   </component>

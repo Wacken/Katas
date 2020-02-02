@@ -9,12 +9,14 @@ namespace CardGame
         void draw();
         void refresh();
         void playCard(Card card);
-        void takeDamage(int amount);
         int getLife();
+        event Action<int, int> DoDamage;
     }
 
     public class BasePlayer : Player
     {
+        private static int playerID = 0;
+        public readonly int playerNumber;
         private readonly ManaPool manaPool;
         private readonly Game game;
         
@@ -38,11 +40,14 @@ namespace CardGame
             randomGenerator = generator ?? new DefaultRandom();
             manaPool = pool ?? new ManaPoolBase();
             game = theGame ?? new StandardGame();
+            DoDamage += takeDamage;
+            playerNumber = playerID++;
         }
 
         public List<Card> hand = new List<Card>();
         public List<Card> deck = new List<Card>();
-        private int lifeCount = 30;
+        private int lifeCount = MaxLife;
+        public static int MaxLife = 30;
 
         public void draw()
         {
@@ -63,17 +68,21 @@ namespace CardGame
         {
             hand.Remove(card);
             manaPool.use(card.ManaCost);
-            game.getOpponent().takeDamage(card.ManaCost);
+            if (DoDamage != null) DoDamage(card.ManaCost,this.playerNumber);
+            //game.getOpponent().takeDamage(card.ManaCost,this.playerNumber);
         }
 
-        public void takeDamage(int amount)
+        public void takeDamage(int amount,int playerNumber)
         {
-            lifeCount-=amount;
+            if(playerNumber != this.playerNumber)
+                lifeCount-=amount;
         }
 
         public int getLife()
         {
             return lifeCount;
         }
+
+        public event Action<int,int> DoDamage;
     }
 }

@@ -28,7 +28,7 @@ namespace CardGame.UnitTest
         
         public Player getOpponent()
         {
-            return null;
+            return new BasePlayer();
         }
 
         public Player Player1 { get; }

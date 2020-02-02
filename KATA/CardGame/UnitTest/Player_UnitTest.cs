@@ -1,3 +1,4 @@
+using System;
 using NSubstitute;
 using NSubstitute.Core.Arguments;
 using NSubstitute.ReceivedExtensions;
@@ -242,7 +243,7 @@ namespace CardGame.UnitTest
                 
                 player.playCard(stubCard);
 
-                mockEnemy.Received().takeDamage(0);
+                mockEnemy.Received().takeDamage(0,player.playerNumber);
             }
 
             [Test]
@@ -259,52 +260,81 @@ namespace CardGame.UnitTest
                 
                 player.playCard(stubCard);
 
-                mockEnemy.Received().takeDamage(1);
+                mockEnemy.Received().takeDamage(1,player.playerNumber);
+            }
+
+            [Test]
+            public void GivenACard_CallsDoDamage()
+            {
+                bool takenDamage = false;
+                Player player = createPlayer();
+                player.DoDamage += delegate { takenDamage = true; };
+                
+                player.playCard(createAttackCard());
+                
+                Assert.IsTrue(takenDamage);
+            }
+        }
+
+        class DoDamage
+        {
+            [Test]
+            public void ctor_WhenLoaded_CallsTakeDamage()
+            {
+                Player enemy = Substitute.For<Player>();
+                BasePlayer player = createPlayer();
+                enemy.DoDamage += Raise.Event<Action<int,int>>(Arg.Any<int>(),Arg.Any<int>());
+            
+                enemy.Received().takeDamage(Arg.Any<int>(),Arg.Any<int>());
             }
         }
 
         public class TakeDamage : Player_UnitTest
         {
-            [Test]
-            public void GivenFullLife0Damage_ReturnFullLife()
+            [TestCase(0)]
+            [TestCase(1)]
+            [Ignore("Old System")]
+            public void GivenFullLifeDamage_ReturnCurrentLife(int damage)
             {
-                Player player = createPlayer();
+                BasePlayer player = createPlayer();
                 
-                player.takeDamage(0);
+                player.takeDamage(damage,player.playerNumber);
                 
-                Assert.AreEqual(30,player.getLife());
+                Assert.AreEqual(BasePlayer.MaxLife-damage,player.getLife());
             }
 
-            [Test]
-            public void GivenFullLife1Damage_Return29Life()
+            [TestCase(15,1)]
+            [TestCase(29,2)]
+            [Ignore("Old System")]
+            public void GivenLifeLost_ReturnCurrentLife(int initialDamage,int damageNow)
             {
-                Player player = createPlayer();
+                BasePlayer player = createPlayer();
+                player.takeDamage(initialDamage,player.playerNumber);
+                player.takeDamage(damageNow,player.playerNumber);
                 
-                player.takeDamage(1);
-                
-                Assert.AreEqual(29,player.getLife());
+                Assert.AreEqual(BasePlayer.MaxLife - initialDamage - damageNow,player.getLife());
             }
         }
-        
-        protected static BasePlayer createPlayer()
+
+        private static BasePlayer createPlayer()
         {
             return new BasePlayer(null,null,null);
         }
 
-        protected static void createFakeDeckIncreasing(BasePlayer player, int deckSize)
+        private static void createFakeDeckIncreasing(BasePlayer player, int deckSize)
         {
             for (var i = 0; i < deckSize; i++)
                 addCardToDeck(player, i);
         }
 
-        protected static Card addCardToDeck(BasePlayer player, int manaCost)
+        private static Card addCardToDeck(BasePlayer player, int manaCost)
         {
             var attackCard = createAttackCard(manaCost);
             player.deck.Add(attackCard);
             return attackCard;
         }
 
-        protected static Card createAttackCard(int manaCost = 0)
+        private static Card createAttackCard(int manaCost = 0)
         {
             var attackCard = Substitute.For<Card>();
             attackCard.ManaCost.Returns(manaCost);
@@ -321,22 +351,22 @@ namespace CardGame.UnitTest
             return new BasePlayer(generator,null,null);
         }
 
-        protected BasePlayer createPlayer(Game game)
+        private BasePlayer createPlayer(Game game)
         {
             return new BasePlayer(null,null,game);
         }
 
-        protected BasePlayer createPlayer(ManaPool pool, Game game)
+        private BasePlayer createPlayer(ManaPool pool, Game game)
         {
             return new BasePlayer(null,pool,game);
         }
 
-        protected BasePlayer createPlayerWithEnemy()
+        private BasePlayer createPlayerWithEnemy()
         {
             return createPlayerWithEnemy(null);
         }
 
-        protected BasePlayer createPlayerWithEnemy(ManaPool pool)
+        private BasePlayer createPlayerWithEnemy(ManaPool pool)
         {
             Game stubGame = Substitute.For<Game>();
             Player stubEnemy = Substitute.For<Player>();

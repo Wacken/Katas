@@ -1,0 +1,11 @@
+/home/wacken/SavedData/Programming/C#/Katas/KATA/ConsoleApplication1/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttribute.cs
+/home/wacken/SavedData/Programming/C#/Katas/KATA/ConsoleApplication1/bin/Debug/ConsoleApplication1.pdb
+/home/wacken/SavedData/Programming/C#/Katas/KATA/ConsoleApplication1/bin/Debug/ConsoleApplication1.exe
+/home/wacken/SavedData/Programming/C#/Katas/KATA/ConsoleApplication1/obj/Debug/ConsoleApplication1.exe
+/home/wacken/SavedData/Programming/C#/Katas/KATA/ConsoleApplication1/obj/Debug/ConsoleApplication1.pdb
+/home/wacken/SavedData/Programming/C#/Katas/KATA/ConsoleApplication1/bin/Debug/Meiern.dll
+/home/wacken/SavedData/Programming/C#/Katas/KATA/ConsoleApplication1/bin/Debug/Meiern.pdb
+/home/wacken/SavedData/Programming/C#/Katas/KATA/ConsoleApplication1/bin/Debug/nunit.framework.dll
+/home/wacken/SavedData/Programming/C#/Katas/KATA/ConsoleApplication1/bin/Debug/NSubstitute.dll
+/home/wacken/SavedData/Programming/C#/Katas/KATA/ConsoleApplication1/bin/Debug/System.Threading.Tasks.Extensions.dll
+/home/wacken/SavedData/Programming/C#/Katas/KATA/ConsoleApplication1/bin/Debug/Castle.Core.dll

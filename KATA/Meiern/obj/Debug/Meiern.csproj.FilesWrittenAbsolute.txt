@@ -1,0 +1,9 @@
+/home/wacken/SavedData/Programming/C#/Katas/KATA/Meiern/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttribute.cs
+/home/wacken/SavedData/Programming/C#/Katas/KATA/Meiern/bin/Debug/Meiern.pdb
+/home/wacken/SavedData/Programming/C#/Katas/KATA/Meiern/bin/Debug/Meiern.dll
+/home/wacken/SavedData/Programming/C#/Katas/KATA/Meiern/obj/Debug/Meiern.dll
+/home/wacken/SavedData/Programming/C#/Katas/KATA/Meiern/obj/Debug/Meiern.pdb
+/home/wacken/SavedData/Programming/C#/Katas/KATA/Meiern/bin/Debug/nunit.framework.dll
+/home/wacken/SavedData/Programming/C#/Katas/KATA/Meiern/bin/Debug/Castle.Core.dll
+/home/wacken/SavedData/Programming/C#/Katas/KATA/Meiern/bin/Debug/NSubstitute.dll
+/home/wacken/SavedData/Programming/C#/Katas/KATA/Meiern/bin/Debug/System.Threading.Tasks.Extensions.dll

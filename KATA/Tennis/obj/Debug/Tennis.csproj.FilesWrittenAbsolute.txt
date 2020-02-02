@@ -1,0 +1,6 @@
+/home/wacken/SavedData/Programming/C#/Katas/KATA/Tennis/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttribute.cs
+/home/wacken/SavedData/Programming/C#/Katas/KATA/Tennis/bin/Debug/Tennis.pdb
+/home/wacken/SavedData/Programming/C#/Katas/KATA/Tennis/bin/Debug/Tennis.dll
+/home/wacken/SavedData/Programming/C#/Katas/KATA/Tennis/obj/Debug/Tennis.dll
+/home/wacken/SavedData/Programming/C#/Katas/KATA/Tennis/obj/Debug/Tennis.pdb
+/home/wacken/SavedData/Programming/C#/Katas/KATA/Tennis/bin/Debug/nunit.framework.dll
