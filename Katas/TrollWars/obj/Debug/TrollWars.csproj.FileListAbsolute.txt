@@ -1,0 +1,8 @@
+D:\Desktop\Syncing Desktop\Training\Katas\TrollWars\bin\Debug\TrollWars.dll
+D:\Desktop\Syncing Desktop\Training\Katas\TrollWars\bin\Debug\TrollWars.pdb
+D:\Desktop\Syncing Desktop\Training\Katas\TrollWars\bin\Debug\nunit.framework.dll
+D:\Desktop\Syncing Desktop\Training\Katas\TrollWars\bin\Debug\nunit.framework.xml
+D:\Desktop\Syncing Desktop\Training\Katas\TrollWars\obj\Debug\TrollWars.csprojAssemblyReference.cache
+D:\Desktop\Syncing Desktop\Training\Katas\TrollWars\obj\Debug\TrollWars.csproj.CopyComplete
+D:\Desktop\Syncing Desktop\Training\Katas\TrollWars\obj\Debug\TrollWars.dll
+D:\Desktop\Syncing Desktop\Training\Katas\TrollWars\obj\Debug\TrollWars.pdb

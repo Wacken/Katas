@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KatasTests", "KatasTests\KatasTests.csproj", "{2492EA76-F96D-4D0C-B822-C713144EDD5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Katas", "Katas\Katas.csproj", "{F758B6A4-5068-4A65-AE5A-4EEAE1F44BC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz", "FizzBuzz\FizzBuzz.csproj", "{CAFDC3D2-6816-4C97-8676-859AFF789B21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day28.11.2019", "Day28.11.2019\Day28.11.2019.csproj", "{344D706E-8EA2-4CA3-957E-61B7E88A6903}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stack", "Stack\Stack.csproj", "{568DBBAD-AAAE-4107-A99D-F63F127FEA3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day06.12.2019", "Day06.12.2019\Day06.12.2019.csproj", "{33573F44-8F4F-4443-9F6F-19A58DC08A21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrollWars", "TrollWars\TrollWars.csproj", "{F6453723-42D4-4666-A8C6-16B0051CAE04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2492EA76-F96D-4D0C-B822-C713144EDD5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2492EA76-F96D-4D0C-B822-C713144EDD5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2492EA76-F96D-4D0C-B822-C713144EDD5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2492EA76-F96D-4D0C-B822-C713144EDD5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F758B6A4-5068-4A65-AE5A-4EEAE1F44BC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F758B6A4-5068-4A65-AE5A-4EEAE1F44BC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F758B6A4-5068-4A65-AE5A-4EEAE1F44BC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F758B6A4-5068-4A65-AE5A-4EEAE1F44BC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAFDC3D2-6816-4C97-8676-859AFF789B21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAFDC3D2-6816-4C97-8676-859AFF789B21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAFDC3D2-6816-4C97-8676-859AFF789B21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAFDC3D2-6816-4C97-8676-859AFF789B21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{344D706E-8EA2-4CA3-957E-61B7E88A6903}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{344D706E-8EA2-4CA3-957E-61B7E88A6903}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{344D706E-8EA2-4CA3-957E-61B7E88A6903}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{344D706E-8EA2-4CA3-957E-61B7E88A6903}.Release|Any CPU.Build.0 = Release|Any CPU
+		{568DBBAD-AAAE-4107-A99D-F63F127FEA3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{568DBBAD-AAAE-4107-A99D-F63F127FEA3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{568DBBAD-AAAE-4107-A99D-F63F127FEA3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{568DBBAD-AAAE-4107-A99D-F63F127FEA3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33573F44-8F4F-4443-9F6F-19A58DC08A21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33573F44-8F4F-4443-9F6F-19A58DC08A21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33573F44-8F4F-4443-9F6F-19A58DC08A21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33573F44-8F4F-4443-9F6F-19A58DC08A21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6453723-42D4-4666-A8C6-16B0051CAE04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6453723-42D4-4666-A8C6-16B0051CAE04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6453723-42D4-4666-A8C6-16B0051CAE04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6453723-42D4-4666-A8C6-16B0051CAE04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

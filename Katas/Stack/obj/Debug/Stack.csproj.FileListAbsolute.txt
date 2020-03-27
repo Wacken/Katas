@@ -1,0 +1,34 @@
+D:\Desktop\Training\Katas\Stack\bin\Debug\Stack.dll
+D:\Desktop\Training\Katas\Stack\bin\Debug\Stack.pdb
+D:\Desktop\Training\Katas\Stack\bin\Debug\xunit.abstractions.dll
+D:\Desktop\Training\Katas\Stack\bin\Debug\xunit.assert.dll
+D:\Desktop\Training\Katas\Stack\bin\Debug\xunit.core.dll
+D:\Desktop\Training\Katas\Stack\bin\Debug\xunit.execution.desktop.dll
+D:\Desktop\Training\Katas\Stack\bin\Debug\xunit.abstractions.xml
+D:\Desktop\Training\Katas\Stack\bin\Debug\xunit.assert.pdb
+D:\Desktop\Training\Katas\Stack\bin\Debug\xunit.assert.xml
+D:\Desktop\Training\Katas\Stack\bin\Debug\xunit.core.pdb
+D:\Desktop\Training\Katas\Stack\bin\Debug\xunit.core.xml
+D:\Desktop\Training\Katas\Stack\bin\Debug\xunit.execution.desktop.pdb
+D:\Desktop\Training\Katas\Stack\bin\Debug\xunit.execution.desktop.xml
+D:\Desktop\Training\Katas\Stack\obj\Debug\Stack.csprojAssemblyReference.cache
+D:\Desktop\Training\Katas\Stack\obj\Debug\Stack.csproj.CopyComplete
+D:\Desktop\Training\Katas\Stack\obj\Debug\Stack.dll
+D:\Desktop\Training\Katas\Stack\obj\Debug\Stack.pdb
+D:\Desktop\Syncing Desktop\Training\Katas\Stack\bin\Debug\Stack.dll
+D:\Desktop\Syncing Desktop\Training\Katas\Stack\bin\Debug\Stack.pdb
+D:\Desktop\Syncing Desktop\Training\Katas\Stack\bin\Debug\xunit.abstractions.dll
+D:\Desktop\Syncing Desktop\Training\Katas\Stack\bin\Debug\xunit.assert.dll
+D:\Desktop\Syncing Desktop\Training\Katas\Stack\bin\Debug\xunit.core.dll
+D:\Desktop\Syncing Desktop\Training\Katas\Stack\bin\Debug\xunit.execution.desktop.dll
+D:\Desktop\Syncing Desktop\Training\Katas\Stack\bin\Debug\xunit.abstractions.xml
+D:\Desktop\Syncing Desktop\Training\Katas\Stack\bin\Debug\xunit.assert.pdb
+D:\Desktop\Syncing Desktop\Training\Katas\Stack\bin\Debug\xunit.assert.xml
+D:\Desktop\Syncing Desktop\Training\Katas\Stack\bin\Debug\xunit.core.pdb
+D:\Desktop\Syncing Desktop\Training\Katas\Stack\bin\Debug\xunit.core.xml
+D:\Desktop\Syncing Desktop\Training\Katas\Stack\bin\Debug\xunit.execution.desktop.pdb
+D:\Desktop\Syncing Desktop\Training\Katas\Stack\bin\Debug\xunit.execution.desktop.xml
+D:\Desktop\Syncing Desktop\Training\Katas\Stack\obj\Debug\Stack.csprojAssemblyReference.cache
+D:\Desktop\Syncing Desktop\Training\Katas\Stack\obj\Debug\Stack.csproj.CopyComplete
+D:\Desktop\Syncing Desktop\Training\Katas\Stack\obj\Debug\Stack.dll
+D:\Desktop\Syncing Desktop\Training\Katas\Stack\obj\Debug\Stack.pdb

@@ -1,0 +1,10 @@
+D:\Desktop\New folder\Katas\Katas\bin\Debug\Katas.exe
+D:\Desktop\New folder\Katas\Katas\bin\Debug\Katas.pdb
+D:\Desktop\New folder\Katas\Katas\obj\Debug\Katas.csprojAssemblyReference.cache
+D:\Desktop\New folder\Katas\Katas\obj\Debug\Katas.exe
+D:\Desktop\New folder\Katas\Katas\obj\Debug\Katas.pdb
+D:\Desktop\Syncing Desktop\Training\Katas\Katas\bin\Debug\Katas.exe
+D:\Desktop\Syncing Desktop\Training\Katas\Katas\bin\Debug\Katas.pdb
+D:\Desktop\Syncing Desktop\Training\Katas\Katas\obj\Debug\Katas.csprojAssemblyReference.cache
+D:\Desktop\Syncing Desktop\Training\Katas\Katas\obj\Debug\Katas.exe
+D:\Desktop\Syncing Desktop\Training\Katas\Katas\obj\Debug\Katas.pdb

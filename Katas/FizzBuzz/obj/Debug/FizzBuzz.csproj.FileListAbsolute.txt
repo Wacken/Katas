@@ -1,0 +1,18 @@
+D:\Desktop\Training\Katas\FizzBuzz\bin\Debug\FizzBuzz.dll
+D:\Desktop\Training\Katas\FizzBuzz\bin\Debug\FizzBuzz.pdb
+D:\Desktop\Training\Katas\FizzBuzz\bin\Debug\nunit.framework.dll
+D:\Desktop\Training\Katas\FizzBuzz\bin\Debug\nunit.framework.pdb
+D:\Desktop\Training\Katas\FizzBuzz\bin\Debug\nunit.framework.xml
+D:\Desktop\Training\Katas\FizzBuzz\obj\Debug\FizzBuzz.csprojAssemblyReference.cache
+D:\Desktop\Training\Katas\FizzBuzz\obj\Debug\FizzBuzz.csproj.CopyComplete
+D:\Desktop\Training\Katas\FizzBuzz\obj\Debug\FizzBuzz.dll
+D:\Desktop\Training\Katas\FizzBuzz\obj\Debug\FizzBuzz.pdb
+D:\Desktop\Syncing Desktop\Training\Katas\FizzBuzz\bin\Debug\FizzBuzz.dll
+D:\Desktop\Syncing Desktop\Training\Katas\FizzBuzz\bin\Debug\FizzBuzz.pdb
+D:\Desktop\Syncing Desktop\Training\Katas\FizzBuzz\bin\Debug\nunit.framework.dll
+D:\Desktop\Syncing Desktop\Training\Katas\FizzBuzz\bin\Debug\nunit.framework.pdb
+D:\Desktop\Syncing Desktop\Training\Katas\FizzBuzz\bin\Debug\nunit.framework.xml
+D:\Desktop\Syncing Desktop\Training\Katas\FizzBuzz\obj\Debug\FizzBuzz.csprojAssemblyReference.cache
+D:\Desktop\Syncing Desktop\Training\Katas\FizzBuzz\obj\Debug\FizzBuzz.csproj.CopyComplete
+D:\Desktop\Syncing Desktop\Training\Katas\FizzBuzz\obj\Debug\FizzBuzz.dll
+D:\Desktop\Syncing Desktop\Training\Katas\FizzBuzz\obj\Debug\FizzBuzz.pdb

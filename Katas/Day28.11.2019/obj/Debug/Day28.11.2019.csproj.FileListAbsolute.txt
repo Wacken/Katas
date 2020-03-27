@@ -1,0 +1,16 @@
+D:\Desktop\Training\Katas\Day28.11.2019\bin\Debug\Day28._11._2019.dll
+D:\Desktop\Training\Katas\Day28.11.2019\bin\Debug\Day28._11._2019.pdb
+D:\Desktop\Training\Katas\Day28.11.2019\bin\Debug\nunit.framework.dll
+D:\Desktop\Training\Katas\Day28.11.2019\bin\Debug\nunit.framework.xml
+D:\Desktop\Training\Katas\Day28.11.2019\obj\Debug\Day28.11.2019.csprojAssemblyReference.cache
+D:\Desktop\Training\Katas\Day28.11.2019\obj\Debug\Day28.11.2019.csproj.CopyComplete
+D:\Desktop\Training\Katas\Day28.11.2019\obj\Debug\Day28._11._2019.dll
+D:\Desktop\Training\Katas\Day28.11.2019\obj\Debug\Day28._11._2019.pdb
+D:\Desktop\Syncing Desktop\Training\Katas\Day28.11.2019\bin\Debug\Day28._11._2019.dll
+D:\Desktop\Syncing Desktop\Training\Katas\Day28.11.2019\bin\Debug\Day28._11._2019.pdb
+D:\Desktop\Syncing Desktop\Training\Katas\Day28.11.2019\bin\Debug\nunit.framework.dll
+D:\Desktop\Syncing Desktop\Training\Katas\Day28.11.2019\bin\Debug\nunit.framework.xml
+D:\Desktop\Syncing Desktop\Training\Katas\Day28.11.2019\obj\Debug\Day28.11.2019.csprojAssemblyReference.cache
+D:\Desktop\Syncing Desktop\Training\Katas\Day28.11.2019\obj\Debug\Day28.11.2019.csproj.CopyComplete
+D:\Desktop\Syncing Desktop\Training\Katas\Day28.11.2019\obj\Debug\Day28._11._2019.dll
+D:\Desktop\Syncing Desktop\Training\Katas\Day28.11.2019\obj\Debug\Day28._11._2019.pdb
