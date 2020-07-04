@@ -1,0 +1,6 @@
+/home/wacken/SavedData/Programming/C#/Katas/KATA/BunnyTest/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttribute.cs
+/home/wacken/SavedData/Programming/C#/Katas/KATA/BunnyTest/bin/Debug/BunnyTest.pdb
+/home/wacken/SavedData/Programming/C#/Katas/KATA/BunnyTest/bin/Debug/BunnyTest.dll
+/home/wacken/SavedData/Programming/C#/Katas/KATA/BunnyTest/obj/Debug/BunnyTest.dll
+/home/wacken/SavedData/Programming/C#/Katas/KATA/BunnyTest/obj/Debug/BunnyTest.pdb
+/home/wacken/SavedData/Programming/C#/Katas/KATA/BunnyTest/bin/Debug/nunit.framework.dll
